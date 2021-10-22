@@ -23,7 +23,10 @@ IF(Orders[Ship Date] = BLANK(),
  Orders[Ship Date].[Date]
 )
 
- 
+ ![m1](https://user-images.githubusercontent.com/86475444/138491158-b7acfa30-cdec-4a2f-978e-ff9d33da6b03.gif)
+
+
+
 
 Step 4 – creating date table
 Date = 
